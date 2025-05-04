@@ -1,0 +1,1 @@
+New-Item -Path .\server\.gitkeep -ItemType "file"
