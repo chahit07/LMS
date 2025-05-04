@@ -27,7 +27,7 @@ app.use(express.json());
 app.use(cookieParser());
 
 app.use(cors({
-    origin:"http://localhost:5173",
+    origin:"https://lms-1-y2ks.onrender.com",
     credentials:true
 }));
  
